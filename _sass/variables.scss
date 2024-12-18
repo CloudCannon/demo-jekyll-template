@@ -41,7 +41,7 @@
     --color-disabled: #949494;
     --color-working: var(--color-disabled);
     --transition-duration: 0.15s;
-    --font-family: "TT Norms Pro", helvetica, arial, sans-serif;
+    --font-family: system-ui, helvetica, arial, sans-serif;
     --font-family-monospace: "Inconsolata", consolas, monaco, monospace;
     --font-size: 16px;
     --input-padding-vertical: calc(var(--grid-size) * 2);
